@@ -2,7 +2,9 @@
   "users": [
     {
       "name": "Chan thui",
-      "id": "OUH54UUD0"
+      "id": "OUH54UUD0",
+      "email": "trangtrang@gmail.com",
+      "password": "123456"
     },
     {
       "name": "Trang",
@@ -91,6 +93,21 @@
       "name": "Duc",
       "phone": "0969044569",
       "id": "EccNtyYKb"
+    },
+    {
+      "name": "Bùi Ngọc Đức",
+      "phone": "0969044569",
+      "id": "RFUmCJeOS"
+    },
+    {
+      "name": "Bùi Ngọc Đức",
+      "phone": "0969044569",
+      "id": "77HrzK8Wq"
+    },
+    {
+      "name": "ngocducedu",
+      "phone": "0969044569",
+      "id": "8sH6brwGn"
     }
   ]
 }
